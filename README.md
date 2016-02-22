@@ -1,5 +1,7 @@
 # Admissions Tracker
 
+<a href = "https://admissions-portal.herokuapp.com/">View Admissions Portal on Heroku.</a>
+
 ### Team Members
 
 [Chris Mahr](https://github.com/cmahrtian)
