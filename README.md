@@ -26,11 +26,11 @@ Welcome to the General Assembly Admissions Portal, a Team ACaDemiK original. The
 
 The Heroku-deployed app uses core concepts of Ruby on Rails - namely RESTful routing and user authentication/password encryption - and pulls from a Postgres database via ActiveRecord. The Portal was fashioned with HTML and CSS and made dynamic with jQuery and React.js.
 
-### ERD
+### Initial ERD
 
 ![alt text](https://github.com/ACaDemiK-Admissions-Portal/admissions-tracker/blob/mahrtian/erd.JPG)
 
-### Wireframes
+### Initial Wireframes
 
 #### Login
 
