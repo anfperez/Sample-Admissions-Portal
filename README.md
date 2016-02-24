@@ -34,10 +34,6 @@ The Heroku-deployed app uses core concepts of Ruby on Rails - namely RESTful rou
 
 ### Initial Wireframes
 
-#### Login
+[Login Page](https://github.com/ACaDemiK-Admissions-Portal/admissions-tracker/blob/mahrtian/login.jpg)
 
-![alt text](https://github.com/ACaDemiK-Admissions-Portal/admissions-tracker/blob/mahrtian/login.jpg)
-
-#### Dashboard
-
-![alt text](https://github.com/ACaDemiK-Admissions-Portal/admissions-tracker/blob/mahrtian/dashboard.jpg)
+[Dashboard](https://github.com/ACaDemiK-Admissions-Portal/admissions-tracker/blob/mahrtian/dashboard.jpg)
