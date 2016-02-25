@@ -46,5 +46,8 @@ Front Page, styled with Bootstrap
 Student Sign-Up Page <br>
 <img src = "http://i.imgur.com/lD3q6Jw.png?1" alt = "sign up">
 
-Student Profile Page 
+Student Profile Page <br>
 <img src = "http://i.imgur.com/T6qrYKg.png?1" alt = "profile">
+
+Student - Update Information. Students will receive e-mails after updating their pages with new information. <br>
+<img src = "http://i.imgur.com/AigWkoW.png?1" alt = "update">
