@@ -43,5 +43,8 @@ The Heroku-deployed app uses core concepts of Ruby on Rails - namely RESTful rou
 Front Page, styled with Bootstrap
 <img src = "http://i.imgur.com/NB1K5ai.png?1" alt ="log in">
 
-Student Sign-Up Page
+Student Sign-Up Page <br>
 <img src = "http://i.imgur.com/lD3q6Jw.png?1" alt = "sign up">
+
+Student Profile Page 
+<img src = "http://i.imgur.com/T6qrYKg.png?1" alt = "profile">
